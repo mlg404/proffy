@@ -51,13 +51,13 @@ This is a React, React Native and NodeJS application.
 
 This project was developed following this technologies:
 
-# General
+### General
 - [VS Code][vc] 
 - [TypeScript](https://www.typescriptlang.org/)
 - [axios](https://github.com/axios/axios)
 
 
-# Mobile
+### Mobile
 - [Expo](https://expo.io/)
 - [React Native](https://facebook.github.io/react-native/)
 - [expo-google-fonts](https://github.com/expo/google-fonts)
@@ -66,16 +66,15 @@ This project was developed following this technologies:
 - [React Navigation](https://reactnavigation.org/)
 
 
-# Web
+### Web
 - [React](https://reactjs.org)
 - [React Router Dom](https://github.com/ReactTraining/react-router)
 
 
-# Server
+### Server
 - [CORS](https://github.com/expressjs/cors)
 - [Express](https://github.com/expressjs/express)
 - [Knex](http://knexjs.org/)
-- 
 
 ## :information_source: How To
 
@@ -99,18 +98,19 @@ $ yarn start
 
 ## :mag_right: Funcionalities
 
-# Mobile
+### Mobile
 - Find "Proffys" to teach you
 - Use filters to search "Proffys"
 - Favorites the "Proffys" you want 
 - Create connections with "Proffys" and pupils
 
-# Web
+### Web
 - Find "Proffys" to teach you
 - Use filters to search "Proffys"
 - Favorites the "Proffys" you want 
 - Register you as a "Proffy"
 - Create connections with "Proffys" and pupils
+- Send whatsapp message to your choosen "proffy"
 
 ## :busts_in_silhouette: Contribute
 
